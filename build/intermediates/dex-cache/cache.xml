@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_b6079df208512d84c1bf9a50d2d1b6e3f331daa0.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_b52be1218ba548d53cd92735bc83d6b519b4b468.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_956d1aedae8eb1b3c148c715bb0e03755b66b322.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_294dd33444b9434ec8418f14a45b698fb297b816.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_2743ea4d33ca4632f7b64a576affa719a0a89bc6.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_1f217c9c6d27d8796c1fe36355547a21193bf07b.jar" />
+    </item>
+    <item
+        jar="F:\Projects\TeachMeIn5Steps\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Projects\TeachMeIn5Steps\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a674a0a94c01d9b2af65fc1229e86dad3bd92c11.jar" />
+    </item>
+
+</items>
